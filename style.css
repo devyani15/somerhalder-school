@@ -1,0 +1,35 @@
+*{
+	margin:0;
+    padding:0;
+}
+.navbar-custom
+{
+background-color:#000E67;
+} 
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+}
+.navbar-custom .navbar-nav .nav-link {
+    color: white;
+}
+.img2{
+    height: 40px;
+    width: 80px;
+}
+.carousel-item active{
+    height: 50px;
+}
+.head{
+    text-align: center;
+    color: #000E67;
+}
+.para{
+    font-size: 1.0625rem;
+    line-height: 1.648;
+    margin: 0;
+    text-align: center;
+}
+.page-footer{
+    background-color:#000E67 ;
+}
